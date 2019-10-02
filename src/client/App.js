@@ -1,4 +1,5 @@
 import React from 'react';
+import 'gh-pages';
 
 class App extends React.Component {
 
