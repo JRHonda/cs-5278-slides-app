@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "140526a2ca699eb89af1f30cb42fa374",
+    "revision": "d27356f01e688e7795deed01a21161ce",
     "url": "/cs-5278-slides-app/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cs-5278-slides-app/static/js/2.d864b70f.chunk.js"
   },
   {
-    "revision": "3e799d08efbfa7a0b73a",
-    "url": "/cs-5278-slides-app/static/js/main.2c5b8a0b.chunk.js"
+    "revision": "a958730cf7ce090b6cce",
+    "url": "/cs-5278-slides-app/static/js/main.10dab983.chunk.js"
   },
   {
     "revision": "e6615f5e9ac5e804b288",
